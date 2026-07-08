@@ -8,3 +8,4 @@ real errors, and figuring them out.
 Every day here has its own entry: the task I was given, the commands I used, why I used 
 them, and any issues I ran into. It's less about finishing 100 days and more about having 
 a real, honest record of the process.
+![100 Days Cloud Challenge](assets/main.png)
