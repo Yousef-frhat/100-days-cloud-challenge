@@ -1,3 +1,5 @@
+بسم الله اللذي لا يضر مع اسمه شئ في الارض ولا في السماء وهو السميع العليم 
+
 ## About This Repository
 
 This is my attempt to stay consistent with learning and keep sharpening my cloud and 
