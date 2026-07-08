@@ -213,6 +213,4 @@ chmod 400 nautilus-kp.pem
 
 \## 📷 Screenshots
 
-!\[screenshot](images/screenshot1.png)
-
-
+!\[100 days cloud challenge](images/aws%2Fday-01%2Fimages%2FScreenshot%202026-07-08%20132650.png)
